@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmptyRecyclerViewDemo</string>
+    <string name="empty_item_message">No Item Found</string>
+</resources>
